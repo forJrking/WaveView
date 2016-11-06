@@ -1,6 +1,6 @@
-# 仿拉钩水波View
+# 仿拉勾水波View
 
-## 图
+## gif图
 
 ![](png/wave.gif)
 
